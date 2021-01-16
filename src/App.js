@@ -20,7 +20,7 @@ export default function App() {
           2020-01-01
         </Moment>
       </h1>
-      <h2>Febriyan adji saputro keren</h2>
+      <h2>Adji Saputro Saja</h2>
     </div>
   );
 }
